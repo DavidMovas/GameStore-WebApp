@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "GameStoreWebApp/1.0.0": {
+        "runtime": {
+          "GameStoreWebApp.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "GameStoreWebApp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
